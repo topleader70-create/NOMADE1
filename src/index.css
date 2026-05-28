@@ -5,12 +5,12 @@
 @theme {
   --font-sans: "Pretendard", ui-sans-serif, system-ui, sans-serif;
   
-  --color-primary: #735c00;
-  --color-primary-container: #d4af37;
-  --color-on-primary-fixed: #241a00;
-  --color-primary-fixed: #ffe088;
+  --color-primary: #4f46e5; /* Vibrant Indigo-600 */
+  --color-primary-container: #4338ca; /* Deep Indigo-700 for high readability */
+  --color-on-primary-fixed: #713f12; /* Dark Yellow-Brown for badge text */
+  --color-primary-fixed: #fef08a; /* Warm Golden Yellow-200 for badge background */
   
-  --color-surface-container: #eeeeee;
+  --color-surface-container: #f8fafc;
   --color-surface-container-lowest: #ffffff;
 }
 
